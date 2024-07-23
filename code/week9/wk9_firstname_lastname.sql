@@ -4,7 +4,7 @@ USE v_art;
 
 
 -- -------------------------------------------------------------------------------------------
--- 1. When you visit art.ceiwebdev.com, and you search by Period/Style 
+-- 1. When you visit art.byuiwebdev.com, and you search by Period/Style 
 --    and you choose Impressionism, you get two resulting images 
 --    ("Woman in the Garden" and "Irises"). 
 --    Write the query to return those images.
@@ -13,7 +13,7 @@ USE v_art;
 
 
 -- -------------------------------------------------------------------------------------------
--- 2. When you visit art.ceiwebdev.com, and you search by Subject and type in the word flower, 
+-- 2. When you visit art.byuiwebdev.com, and you search by Subject and type in the word flower, 
 --    you get three images. Write the query to display those images.
 --   (remember the keyword might have been 'flowers' but they typed 'flower')
 -- -------------------------------------------------------------------------------------------
